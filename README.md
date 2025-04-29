@@ -1,12 +1,12 @@
 # Curso Desenvolvedor Full Stack Júniro +PraTI & Codifica
 Este repositório contém a primeira lista de exercícios obrigatórios do curso, os exercícios serão desenvolvidos em javascript e utiliza a biblioteca prompt-sync para obter a entrada do usuário. 
 
-#Requisitos:
+# Requisitos:
 * Ter o Node.js instalado
 * Ter a biblioteca prompt-sync instalada, caso não tenha, execute o código abaixo na pasta onde estarão os arquivos js.
-npm install prompt-sync
+'npm install prompt-sync'
 
-#Lista de exercícios:
+# Lista de exercícios:
 1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
 utilizando uma estrutura de controle if.
 2. Crie um programa que classifica a idade de uma pessoa em categorias (criança,
