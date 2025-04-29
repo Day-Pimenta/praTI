@@ -4,7 +4,7 @@ Este repositório contém a primeira lista de exercícios obrigatórios do curso
 # Requisitos:
 * Ter o Node.js instalado
 * Ter a biblioteca prompt-sync instalada, caso não tenha, execute o código abaixo na pasta onde estarão os arquivos js.
-'npm install prompt-sync'
+`npm install prompt-sync`
 
 # Lista de exercícios:
 1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
@@ -36,8 +36,7 @@ utilizando um loop for.
 10. Escreva um algoritmo para ler um número inteiro e escrevê-lo na tela 10 vezes.
 11. Escreva um programa que solicita ao usuário 5 números e calcula a soma total
 utilizando um loop for.
-12. Crie um programa que exibe a tabuada de um número fornecido pelo usuário (de 1 a
-10) utilizando um loop for.
+12. Crie um programa que exibe a tabuada de um número fornecido pelo usuário (de 1 a 10) utilizando um loop for.
 13. Fazer um algoritmo para receber números decimais até que o usuário digite 0 e fazer
 a média aritmética desses números.
 14. Crie um programa que calcula o fatorial de um número fornecido pelo usuário
